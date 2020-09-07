@@ -1,0 +1,52 @@
+[
+    {
+      "model": "dojos.student",
+      "pk": 1,
+      "fields": {
+        "name": "Brian Danger",
+        "age": 33,
+        "special_attack": "Failing Upwards",
+        "sensei_id": 1
+      }
+    },
+    {
+      "model": "dojos.student",
+      "pk": 2,
+      "fields": {
+        "name": "Jerry Bear",
+        "age": 111,
+        "special_attack": "The Papermill Steamer",
+        "sensei_id": 1
+      }
+    },
+    {
+      "model": "dojos.student",
+      "pk": 3,
+      "fields": {
+        "name": "Bobby Talley",
+        "age": 95,
+        "special_attack": "The Mem-Fist Tenesseeya Later",
+        "sensei_id": 2
+      }
+    },
+    {
+      "model": "dojos.student",
+      "pk": 4,
+      "fields": {
+        "name": "David Whitlatch",
+        "age": 15,
+        "special_attack": "The David Whiplash",
+        "sensei_id": 3
+      }
+    },
+    {
+      "model": "dojos.student",
+      "pk": 5,
+      "fields": {
+        "name": "Maddy Rombes",
+        "age": 25,
+        "special_attack": "The Rom-Bee Sting",
+        "sensei_id": 4
+      }
+    }
+]

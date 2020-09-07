@@ -1,0 +1,18 @@
+[
+    {
+      "model": "dojos.dojo",
+      "pk": 1,
+      "fields": {
+        "name": "Cobra Kai",
+        "motto": "Strike first. Strike hard. No mercy."
+      }
+    },
+    {
+      "model": "dojos.dojo",
+      "pk": 2,
+      "fields": {
+            "name": "Miyagi-do",
+            "motto": "Inner peace, focus, balance."
+      }
+    }
+]

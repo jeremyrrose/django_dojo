@@ -1,0 +1,42 @@
+[
+    {
+      "model": "dojos.sensei",
+      "pk": 1,
+      "fields": {
+        "name": "John Kreese",
+        "image_url": "https://i.pinimg.com/originals/98/60/73/9860734188ab14fcbb16e72f5dd2ad86.jpg",
+        "wise_quote": "We do not train to be merciful here. Mercy is for the weak. Here, in the streets, in competition: A man confronts you, he is the enemy.",
+        "dojo_id": 1
+      }
+    },
+    {
+      "model": "dojos.sensei",
+      "pk": 2,
+      "fields": {
+        "name": "Johnny Lawrence",
+        "image_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cobra-k-1526581667.jpg?resize=480:*",
+        "wise_quote": "I'm gonna teach you the style of karate that was taught to me. A method of fighting your pansy-ass generation desperately needs. I'm not just gonna teach you how to conquer your fears. I'm gonna teach you how to awaken the snake within you. And once you do that, you'll be the one who's feared. You'll build strength. You'll learn discipline. And when the time is right, you'll fight back.",
+        "dojo_id": 1
+      }
+    },
+    {
+      "model": "dojos.sensei",
+      "pk": 3,
+      "fields": {
+        "name": "Mr. Miyagi",
+        "image_url": "https://costumewall.com/wp-content/uploads/2018/10/mr-miyagi.jpg",
+        "wise_quote": "For man with no forgiveness in heart, life worse punishment than death",
+        "dojo_id": 2
+      }
+    },
+    {
+      "model": "dojos.sensei",
+      "pk": 4,
+      "fields": {
+        "name": "Daniel LaRusso",
+        "image_url": "https://www.indiewire.com/wp-content/uploads/2018/06/02_CobraKai.jpg?w=780",
+        "wise_quote": "Karate lies in the mind and heart. Not in the hands.",
+        "dojo_id": 2
+      }
+    }
+]
